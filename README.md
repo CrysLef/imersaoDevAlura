@@ -10,6 +10,12 @@
 </p>
 </br>
 </br>
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=2980b9" alt="License">
+  
+  <img src="https://img.shields.io/github/forks/CrysLef/imersaoDevAlura?label=forks&message=MIT&color=FFFFFF&labelColor=2980b9" alt="Forks">     
+
+  <img src="https://img.shields.io/github/stars/CrysLef/imersaoDevAlura?label=stars&message=MIT&color=FFFFFF&labelColor=2980b9" alt="Stars">
 
 # 🤖 Technologies
 
@@ -52,9 +58,9 @@ To see the sites created, follow the links below:
 
 # 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/CrysLef/imersaoDevAlura/blob/main/LICENSE) file for details.
 
 
 ---
 
-Made by [Crystian](https://www.linkedin.com/in/crystian-lefundes/) 💚 !
+Made by [Crystian](https://www.linkedin.com/in/crystian-lefundes/) 💙 !
